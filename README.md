@@ -7,7 +7,7 @@ Il progetto `Allenamento Tracker` è stato sviluppato per fornire una soluzione 
 
 - Creare e gestire schede di allenamento personalizzate.
 - Monitorare i progressi e registrare gli allenamenti.
-- Visualizzare analisi e statistiche direttamente nel foglio di calcolo.
+- Visualizzare analisi e statistiche direttamente nel foglio di calcolo (TO DO).
 
 ## Struttura del Progetto
 Il progetto è organizzato nei seguenti file principali:
@@ -42,7 +42,7 @@ Per lo sviluppo di questo progetto, è stato adottato un approccio iterativo uti
 2. Configurare i nomi dei fogli nella sezione `config.gs` in base alle proprie esigenze.
 3. Configurare la scheda `STORICO` con le colonne `DATA`, `BLOCCO`, `OBIETTIVO`, `SEDUTA`, `ESERCIZIO`, `SERIE_PREVISTE`, `REP_PREVISTE`, `SERIE_EFFETTIVE`, `REPS_EFFETTIVE`, `CARICO`, `NOTE`.
 4. Configurare la scheda `SCHEDA` con le colonne `BLOCCO`, `SETTIMANE`, `OBIETTIVO`, `SEDUTA`, `ESERCIZIO`, `% 1RM`, `SERIE`, `REPS`, `RECUPERO`, `TIPO`, `COMMENTO`, `ATTIVA`, `PROGRESSIONI`; compilare la scheda di allenamento.
-5. Eseguire le funzioni del menu custom per accedere alle funzionalità principali.
+5. Eseguire le funzioni del menu custom per accedere alle funzionalità principali, oppure premere sulla checkbox della scheda `ALLENAMENTOODIERNO` per salvare la seduta.
 
 ## Contributi
 Il progetto è stato sviluppato e perfezionato grazie alla collaborazione tra sviluppatori e strumenti di AI avanzati. Feedback e miglioramenti sono sempre ben accetti!
